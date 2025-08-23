@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:talhagulsher7782@gmail.com"><img src="https://img.shields.io/badge/Email-talhagulsher7782@gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/talhamalik121" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Talha-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/talhamalik121" target="_blank"><img src="https://img.shields.io/badge/GitHub-Talha-black?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-talha-3b6a5a286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Talha-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---
